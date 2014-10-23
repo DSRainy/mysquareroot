@@ -31,7 +31,7 @@ public class SquareRoot {
 /**
  * 
  * @param input is a value that want to find a square root 
- * @return 
+ * @return Double value is a result of sqrt(input)
  */
     private Double mySquareRoot(Double input) {
         Double result = 1.0d;
